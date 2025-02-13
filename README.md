@@ -6,7 +6,7 @@
   Color theme for SweetScape 010 Editor (a cool one)
 </h1>
 <br/>
-<h3 align="center">Now you can see more clearly things, that you don't understand anyway.</h3>
+<h3 align="center">Our dedicated team (me), put countless of hours (1 at max) into this project.<br/>Now you can see more clearly things, that you don't understand anyway.</h3>
 <br/>
 <div align="center"><a href="https://github.com/nullEnt/that-theme/"><img src="https://github.com/nullEnt/that-theme/blob/main/res/theme.png" alt="that-theme" width="900"></a></div>
 <br/>
@@ -14,6 +14,7 @@
 
 ## Features
 - Has colors
+- I like it
 <br/>
 
 ## Design Philosophy
