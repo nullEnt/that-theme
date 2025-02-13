@@ -12,18 +12,18 @@
 <br/>
 <br/>
 
-## Features
+## ▷ Features
 - Has colors
 - I like it
 <br/>
 
-## Design Philosophy
+## ▷ Design Philosophy
 - It was important to me to include colors in this theme. Harmony something something...
 <br/>
 
-## Contributors
+## ▷ Contributors
 - A few teddy bear helped me making this theme
 <br/>
 
-## To do
+## ▷ To do
 - Write more things to the "Features"
